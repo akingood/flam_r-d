@@ -67,7 +67,7 @@ The L1 distance between the predicted curve and the given CSV data points is use
 
 ## How to Use
 
-1. Open the notebook `parametric_curve_fitting.ipynb` in Google Colab.  
+1. Open the notebook `FLAM_R&D.ipynb` in Google Colab.  
 2. Upload `xy_data.csv` to the Colab environment.  
 3. Run all cells to reproduce results:
    - Optimized parameters
