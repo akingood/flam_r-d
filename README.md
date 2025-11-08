@@ -12,16 +12,16 @@ The L1 distance between the predicted curve and the given CSV data points is use
 
 ## Optimized Parameters
 
-- **Theta (deg):** 28.1186  
+- **Theta (deg):** 28.1184  
 - **M:** 0.02139  
-- **X:** 54.9005  
+- **X:** 54.9008  
 
 ---
 
 ## Parametric Equation (LaTeX)
 
 \[
-\left( t \cos(28.1186^\circ) - e^{0.02139 |t|} \sin(0.3 t) \sin(28.1186^\circ) + 54.9005,\ 42 + t \sin(28.1186^\circ) + e^{0.02139 |t|} \sin(0.3 t) \cos(28.1186^\circ) \right)
+\left( t \cos(28.1184^\circ) - e^{0.02139 |t|} \sin(0.3 t) \sin(28.1184^\circ) + 54.9008,\ 42 + t \sin(28.1184^\circ) + e^{0.02139 |t|} \sin(0.3 t) \cos(28.1184^\circ) \right)
 \]
 
 ---
