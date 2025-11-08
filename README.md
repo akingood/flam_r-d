@@ -24,6 +24,8 @@ The L1 distance between the predicted curve and the given CSV data points is use
 \left( t \cos(28.1184^\circ) - e^{0.02139 |t|} \sin(0.3 t) \sin(28.1184^\circ) + 54.9008,\ 42 + t \sin(28.1184^\circ) + e^{0.02139 |t|} \sin(0.3 t) \cos(28.1184^\circ) \right)
 \]
 
+(t * cos(0.49046) - e^(0.02139 * |t|) * sin(0.3*t) * sin(0.49046) + 54.9008, 42 + t * sin(0.49046) + e^(0.02139 * |t|) * sin(0.3*t) * cos(0.49046))
+
 ---
 
 ## Average L1 per point
